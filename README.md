@@ -64,3 +64,39 @@ Hello GitHub
    <p><small>&copy;2017 çÇéRëÂãM</small></p>
   </body>
 </html>
+
+body{
+background-image:url(images/just-waves.png);
+}
+h1{
+front-size:200%;
+color:blue;
+}
+
+#brain{
+float:right;
+}
+
+ 
+ol{list-style-type:lowyer-greek;}
+#head{
+ background:#ffffff;
+ font-family:Meiryo;
+ width:600px;
+ padding:10px;
+ text-align:center;
+ border:1px solid #cccccc;
+ margin: 30px auto;
+}
+#body{
+ background:#ffffff;
+ font-family:Meiryo;
+ width:800px;
+ padding:5px;
+ border:1px solid #cccccc;
+ margin: 30px auto;
+}
+
+h2{
+color:red;
+}
