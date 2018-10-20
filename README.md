@@ -12,13 +12,12 @@ Hello GitHub
 <html>
  <head>
   <meta charset="UTF-8">
-  <title>高山大貴のホームページ</title>
+# index.html
   <link rel="stylesheet" href="style.css">
  </head>
  <body>
  <div id="head">
 
-    <img src ="images/brain.jpg" height="100" width="100" id="brain">
   <h1>高山大貴</h1>
   <p></p>
  </div>
@@ -65,6 +64,8 @@ Hello GitHub
   </body>
 </html>
 
+
+#style.css
 body{
 background-image:url(images/just-waves.png);
 }
