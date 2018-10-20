@@ -7,9 +7,6 @@ Hello GitHub
 
 - item2
 
-# index.html
-
--
 <!DOCTYPE html>
 <html>
  <head>
@@ -67,9 +64,6 @@ Hello GitHub
 </html>
 
 
-#style.css
-
--
 body{
 background-image:url(images/just-waves.png);
 }
